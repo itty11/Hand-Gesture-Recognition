@@ -27,23 +27,41 @@ Libraries & Frameworks:
 📁 Hand Gesture Recognition
 │
 ├── train_model.py                # Train CNN + Random Forest models
+
 ├── real_time_recognition.py      # Streamlit app for real-time gesture recognition
+
 │
+
 ├── sign_mnist_train.csv          # ASL training dataset
+
 ├── sign_mnist_test.csv           # ASL testing dataset
+
 │
+
 ├── gesture_cnn_model.h5          # Saved CNN model
+
 ├── gesture_rf_model.pkl          # Saved Random Forest model
+
 │
+
 ├── accuracy_loss_plot.png        # Accuracy and loss plot
+
 ├── confusion_matrix.png          # Confusion matrix visualization
+
 ├── classification_report.txt     # Model performance report (text)
+
 ├── classification_report.csv     # Model performance report (CSV)
+
 │
+
 ├── american_sign_language.PNG    # ASL reference image
+
 ├── amer_sign2.png
+
 ├── amer_sign3.png
+
 │
+
 └── README.md                     # Project documentation
 
 
