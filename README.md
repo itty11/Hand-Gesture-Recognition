@@ -25,7 +25,9 @@ Libraries & Frameworks:
 ## 📂 Project Structure
 
 📁 Hand Gesture Recognition
+
 │
+
 ├── train_model.py                # Train CNN + Random Forest models
 
 ├── real_time_recognition.py      # Streamlit app for real-time gesture recognition
